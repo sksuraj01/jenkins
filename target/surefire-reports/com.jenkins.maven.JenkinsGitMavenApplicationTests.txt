@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.jenkins.maven.JenkinsGitMavenApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.899 s - in com.jenkins.maven.JenkinsGitMavenApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.864 s - in com.jenkins.maven.JenkinsGitMavenApplicationTests
