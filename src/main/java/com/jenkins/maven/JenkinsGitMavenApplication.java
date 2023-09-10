@@ -16,7 +16,7 @@ public class JenkinsGitMavenApplication {
 	@PostConstruct
 	public void init()
 	{
-		logger.info("Application very much Started");
+		logger.info("Application very much Started,i am happy");
 	}
 
 	public static void main(String[] args) {
