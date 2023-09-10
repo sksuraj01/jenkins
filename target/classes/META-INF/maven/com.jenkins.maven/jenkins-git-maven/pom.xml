@@ -14,7 +14,7 @@
 	<name>jenkins-git-maven</name>
 	<description>integrate with jenkins</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -44,6 +44,9 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		
+			<finalName>jenkins-git-maven</finalName>
+			
 	</build>
 
 </project>
